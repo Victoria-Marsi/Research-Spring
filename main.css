@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite;
+}
+.title{
+    color: rgba(28, 85, 85, 0.925);
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+.flex{
+    color: rgba(27, 143, 143, 0.685);
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+.parent-prop{
+    color:rgba(28, 85, 85, 0.925);
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+.child-prop{
+    color:rgba(28, 85, 85, 0.925);
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+.flex-container{
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+.item2{
+    align-self: flex-end;
+}
+details{
+    font-size: medium;
+}
+ul{
+    font-size: medium;
+}
