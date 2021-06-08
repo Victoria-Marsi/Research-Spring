@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(238, 238, 238);
+    font-family: cursive;
+    text-align: center;
+}
+.title{
+    color: red;
+}
+.wrapper {
+    color: red;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px;
+    grid-gap: 10px;
+}
+.box1{
+    border: double;
+}
+.box2{
+    border: double;
+}
+.box3{
+    border: double;
+}
+.box4{
+    border: double;
+}
+.box5{
+    border: double;
+}
+.box6{
+    border: double;
+}
